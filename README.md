@@ -15,13 +15,11 @@
 - **文本嵌入模型**: HuggingFace BGE
 
 ## 📸 系统实机演示
-> （提示：在这里贴上你刚才截的那几张完美的纯中文、带对话的系统截图，直接把截图文件拖到 GitHub 网页的编辑框里即可生成链接）
+<img width="857" height="299" alt="9602f2c7f3e942d71598b2126000b6ad" src="https://github.com/user-attachments/assets/0772c728-6123-49e6-a287-3c45007635ab" />
+<img width="1600" height="860" alt="77f9519f4789095d2e2ba5b28253fac0" src="https://github.com/user-attachments/assets/0b2090ef-dd97-4c6b-9ab0-c7e806550a8a" />
 
 ## 🚀 快速启动
 1. 克隆本项目到本地。
 2. 安装依赖：`pip install langchain langchain-community langchain-openai chromadb sentence-transformers pypdf docx2txt streamlit`
 3. 在 `app.py` 中填入你的 API Key。
 4. 运行系统：`streamlit run app.py`
-
-   <img width="857" height="299" alt="9602f2c7f3e942d71598b2126000b6ad" src="https://github.com/user-attachments/assets/0772c728-6123-49e6-a287-3c45007635ab" />
-   <img width="1600" height="860" alt="77f9519f4789095d2e2ba5b28253fac0" src="https://github.com/user-attachments/assets/0b2090ef-dd97-4c6b-9ab0-c7e806550a8a" />
